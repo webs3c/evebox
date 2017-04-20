@@ -58,7 +58,7 @@ deploy:
     on:
       branch: develop
     access_key_id:
-      secure: c5UFKeig6yuBsd6EzdmPTvcFXOxa6n2g6kAl27cBGeE
+      secure: c5UFKeig6yuBsd6EzdmPTvcFXOxa6n2g6kAl27cBGeE=
     secret_access_key:
       secure: GWkVM5XKPqkXOXdHrikmKmJxlSBsruhFPIzmSZOdvO+ygekhTvSiHBrvu+LYYP7v
     bucket: ci-artifacts.evebox.org
